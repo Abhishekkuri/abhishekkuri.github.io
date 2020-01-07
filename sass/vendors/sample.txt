@@ -1,0 +1,1 @@
+to store any external like jquery, bootstrap styles etc.
